@@ -76,7 +76,7 @@ function App() {
         <h2>Contact </h2>
         <p>Email: <a href="mailto:anshika@example.com">anshika@example.com</a></p>
         <p>GitHub: <a href="https://github.com/Anshikam0905" target="_blank">github.com/Anshikam0905</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/anshika" target="_blank">linkedin.com/in/anshika</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/anshika-mourya-542414365/" target="_blank">linkedin.com/in/anshika-mourya-542414365</a></p>
       </section>
 
       <footer>
